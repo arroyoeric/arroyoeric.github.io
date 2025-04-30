@@ -1,7 +1,7 @@
 
 # Eric Arroyo's Portfolio
 
-I am a business finance major at CSUF and I plan on graduating in 2026
+I am a business finance major at CSUF and I plan on graduating in 2026.
 
 ## Favorite CPSC 120L Labs
 
